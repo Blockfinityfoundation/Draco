@@ -1,0 +1,25 @@
+{
+  "name": "draco",
+  "version": "1.0.0",
+  "description": "smart contract and AI based emergency response network",
+  "main": "index.js",
+  "dependencies": {
+    "scrypt": "^5.4.1",
+    "web3": "^0.15.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blockfinityfoundation/Draco.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blockfinityfoundation/Draco/issues"
+  },
+  "homepage": "https://github.com/Blockfinityfoundation/Draco#readme",
+  "private": "true"
+}
